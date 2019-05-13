@@ -12,7 +12,7 @@ Using Microsoft's Cats and Dogs Dataset to train CNN models with varying hyperpa
 
 Validation Accuracy of Trained Models
 <img src="./valAccuracy_graph.svg">
-Validation Accuracy of Trained Models
+Validation Loss of Trained Models
 <img src="./valLoss_graph.svg">
 
 
