@@ -1,5 +1,5 @@
 # Cats and Dogs Classifier with CNNs 
-Using Microsoft's Cats and Dogs Dataset to train CNN models with varying hyperparameters to find the 'most' optimized model.
+Using Kaggle's Cats and Dogs Dataset to train CNN models with varying hyperparameters to find the 'most' optimized model.
 
 
 ## Hyperparameters tested:
