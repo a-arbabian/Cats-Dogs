@@ -29,7 +29,7 @@ Training (blue) vs Validation (red) Accuracy
 Training (blue) vs Validation (red) Loss 
 <img src="./3.0.64Loss.svg">
 
-The graph shows signs of over fitting past epoch 4, where E<sub>Approx.</sub> starts to increase.
+The graph shows signs of over fitting past epoch 5, where E<sub>Approx.</sub> starts to increase.
 
 ### Some Notes
 
