@@ -6,7 +6,7 @@ from tqdm import tqdm
 import random # for shuffling training data
 import pickle # for serializing the data before saving to disk
 
-DATADIR = "/home/ali/Documents/Tensorflow Projects/Cats & Dogs/Cats-Dogs/Kaggle Cats and Dogs Dataset/PetImages"
+DATADIR = "C:/Users/Ali/Desktop/Code/CatsDogsCNN/Cats-Dogs/PetImages"
 CATEGORIES = ["Dog", "Cat"]
 IMG_SIZE = 100
 

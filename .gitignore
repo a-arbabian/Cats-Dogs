@@ -1,2 +1,6 @@
 Kaggle\ Cats\ and\ Dogs\ Dataset/
 Testing\ Data/
+PetImages/
+*.pickle
+.vscode/
+logs/
